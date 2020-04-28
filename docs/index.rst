@@ -1,8 +1,8 @@
 .. Images
-.. |thingspeak_1| images:: images/thingspeak_1.jpg
-.. |thingspeak_2| images:: images/thingspeak_2.jpg
-.. |thingspeak_3| images:: images/thingspeak_3.jpg
-.. |thingspeak_4| images:: images/thingspeak_4.jpg
+.. |thingspeak_1| image:: images/thingspeak_1.jpg
+.. |thingspeak_2| image:: images/thingspeak_2.jpg
+.. |thingspeak_3| image:: images/thingspeak_3.jpg
+.. |thingspeak_4| image:: images/thingspeak_4.jpg
 
 .. Links
 .. |ThingSpeak| raw:: html
