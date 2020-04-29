@@ -9,6 +9,10 @@
 
    <a href="https://thingspeak.com">ThingSpeak</a>
 
+.. |ThingSpeakLogin| raw:: html
+
+   <a href="https://thingspeak.com/login">ThingSpeak</a>
+
 ThingSpeak
 ==========
 
@@ -16,7 +20,7 @@ The *fledge-north-thingspeak* plugin provides a mechanism to |ThingSpeak|, allow
 
 In order to send data to ThingSpeak you must first create a channel to receive it.
 
-  - Login to your |ThingSpeak| account
+  - Login to your |ThingSpeakLogin| account
 
   - From the menu bar select the *Channels* menu and the *My Channels* option
 
